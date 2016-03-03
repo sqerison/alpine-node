@@ -1,5 +1,8 @@
 Minimal Node.js Docker Images (19MB, or 6.7MB compressed)
 ---------------------------------------------------------
+[![CircleCI](https://img.shields.io/circleci/project/sqerison/alpine-node.svg)](https://circleci.com/gh/sqerison/alpine-node)
+[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/sqerison/alpine-node/1.svg)](https://circleci.com/gh/sqerison/alpine-node/1)
+[![Docker Pulls](https://img.shields.io/docker/pulls/sqerison/alpine-node.svg)](https://hub.docker.com/r/sqerison/alpine-node/)
 
 Versions v5.7.0, v4.3.1, v0.12.10, v0.10.42, and io.js – built on [Alpine Linux](https://alpinelinux.org/).
 
